@@ -1,0 +1,23 @@
+{
+  "name": "status-notifier-create-role",
+  "version": "1.0.0",
+  "description": "Create IoT role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marmanold/status-notifier.git"
+  },
+  "keywords": [
+    "Serverless Notifications",
+    "Serverless Framework",
+    "IoT"
+  ],
+  "author": "Michael Wayne Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.6.15"
+  }
+}
